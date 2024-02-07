@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Main {
+public class EJERCICIO10 {
     public static void main(String[] args) {
         int dimension = obtenerDimension();
         int[][] matriz = generarMatrizSimetrica(dimension);
